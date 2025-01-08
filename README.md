@@ -4,7 +4,7 @@ This repository contains GEE code for analyzing urban expansion in Montreal usin
 
 ## How to Use
 
-1. Copy the codes from `Building_Change_MTL.js`.
+1. Copy the codes from 'Areacalculation.js', 'Diagnostics.js', and`Building_Change_MTL.js`.
 2. Paste it into the Google Earth Engine Code Editor.
 3. Adjust the region of interest and date range.
 4. Run the analysis and visualize the urban expansion trends.
