@@ -13,3 +13,6 @@ This repository contains GEE code for analyzing urban expansion in Montreal usin
 - Google Earth Engine account
 - Sentinel-2 imagery
 - Dynamic World dataset
+
+The Story behind this code, and more data can be found on my Blog Code n Curves
+https://codencurves.blogspot.com/2025/01/what-went-wrong-in-montreal-urban.html
